@@ -1,6 +1,9 @@
 # Blog pessoal do Rafael Vetromille
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+Aqui encontra-se o repositório que mantém o blog. 
+
+Construído com o tema **Academic Template** for [Hugo](https://github.com/gohugoio/hugo)
+
 
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
 
