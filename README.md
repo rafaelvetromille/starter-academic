@@ -1,6 +1,6 @@
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+# Repositório que contém a página pessoal de Rafael Vetromille
 
-# Repositório que contém a página pessoal da Beatriz
+# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
 
