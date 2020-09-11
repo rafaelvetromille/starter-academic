@@ -1,4 +1,4 @@
-# Repositório que contém a página pessoal de Rafael Vetromille
+# Blog pessoal do Rafael Vetromille
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
